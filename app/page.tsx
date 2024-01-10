@@ -160,8 +160,8 @@ export default function Home() {
         <ul>
           <li>
             {/* <Camera color="red" size={48} /> */}
-            <Button className="bg-blue-600">
-              <Link href="https://t.me/RoldexVerse">Telegram</Link>
+            <Button className="bg-red-700">
+              <Link href="https://trakteer.id/inifikry">Trakteer</Link>
             </Button>
           </li>
         </ul>
