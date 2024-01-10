@@ -155,7 +155,7 @@ export default function Home() {
     <div className="pt-6 mx-12">
       <nav className="flex justify-between ">
         <div className="self-center">
-          <Link href="/">Terabox Downloader</Link>
+          <Link href="/">inifikry - Terabox Downloader</Link>
         </div>
         <ul>
           <li>
